@@ -7,3 +7,5 @@ fields:
   default: Title
 - type: textarea
   default: Content
+pages:
+- _posts/i-am-awesome.md
